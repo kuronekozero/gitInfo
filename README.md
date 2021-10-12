@@ -15,5 +15,6 @@
 [instagram]: https://www.instagram.com/_materialisimo_/?hl=ru
 
 
-
-
+<br>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kuronekozero&theme=radical)
+<br/>
