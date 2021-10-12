@@ -14,5 +14,3 @@
 [youtube]: https://www.youtube.com/channel/UCFd-kVBejFB7ftYIOixBHQA
 [instagram]: https://www.instagram.com/_materialisimo_/?hl=ru
 
-
-![GitHub Stats](https://github-readme-stats.vercel.api username=kuronekozero&theme=radical)
