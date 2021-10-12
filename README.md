@@ -1,6 +1,8 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kuronekozero&theme=radical)
 
+![](https://github.com/kuronekozero/github-stats/blob/master/generated/overview.svg)
+
 
 ### Contact with me:
 
