@@ -16,9 +16,4 @@
 
 
 
-<br>
-
-  ![GitHub Stats](https://github-readme-stats.vercel.api/?username=kuronekozero&theme=radical)
-
-<br>
 
