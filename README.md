@@ -16,7 +16,3 @@
 [twitter]: https://twitter.com/Prometh15865746
 [youtube]: https://www.youtube.com/channel/UCFd-kVBejFB7ftYIOixBHQA
 [instagram]: https://www.instagram.com/_materialisimo_/?hl=ru
-
-![](https://github.com/kuronekozero/github-stats/blob/master/generated/overview.svg)
-
-
