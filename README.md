@@ -1,6 +1,10 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kuronekozero&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuronekozero&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 ### Contact with me:
 
 [<img align="left" alt="kuroneko | spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />][spotify]
