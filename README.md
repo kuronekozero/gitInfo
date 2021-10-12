@@ -1,9 +1,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kuronekozero&theme=radical)
 
-![](https://github.com/kuronekozero/github-stats/blob/master/generated/overview.svg)
-
-
 ### Contact with me:
 
 [<img align="left" alt="kuroneko | spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />][spotify]
@@ -19,4 +16,7 @@
 [twitter]: https://twitter.com/Prometh15865746
 [youtube]: https://www.youtube.com/channel/UCFd-kVBejFB7ftYIOixBHQA
 [instagram]: https://www.instagram.com/_materialisimo_/?hl=ru
+
+![](https://github.com/kuronekozero/github-stats/blob/master/generated/overview.svg)
+
 
