@@ -1,9 +1,11 @@
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=kuronekozero&theme=radical"/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kuronekozero&theme=radical)
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuronekozero&layout=compact"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuronekozero&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
+<br><br/>
+<br><br/>
+<br><br/>
+<br><br/>
 
 ### Contact with me:
 
@@ -20,3 +22,4 @@
 [twitter]: https://twitter.com/Prometh15865746
 [youtube]: https://www.youtube.com/channel/UCFd-kVBejFB7ftYIOixBHQA
 [instagram]: https://www.instagram.com/_materialisimo_/?hl=ru
+
