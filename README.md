@@ -2,7 +2,7 @@
 
 <br><br/>
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=kuronekozero&theme=radical"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=kuronekozero&theme=discord_old_blurple"/>
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuronekozero&layout=compact"/>
 
