@@ -11,7 +11,7 @@
 <br><br/>
 <br><br/>
 
-### Contact with me:
+### Social media:
 
 [<img align="left" alt="kuroneko | spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />][spotify]
 [<img align="left" alt="kuroneko | vk" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
