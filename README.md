@@ -1,7 +1,5 @@
 ## :wave: Hello there!
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
-
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=kuronekozero&theme=discord_old_blurple"/>
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuronekozero&layout=compact"/>
