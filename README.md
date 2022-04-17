@@ -1,6 +1,6 @@
 ## :wave: Hello there!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kuronekozero&theme=default&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kuronekozero&theme=default&show_icons=true&hide_rank=true)
 <img align="left" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuronekozero&layout=compact"/>
 
 <br><br/>
