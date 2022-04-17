@@ -1,7 +1,5 @@
 ## :wave: Hello there!
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=kuronekozero&theme=discord_old_blurple"/>
-
 <img align="left" width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuronekozero&layout=compact"/>
 
 <br><br/>
