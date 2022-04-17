@@ -4,9 +4,6 @@
 <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuronekozero&layout=compact"/>
 
 <br><br/>
-<br><br/>
-<br><br/>
-<br><br/>
 
 ### Social media:
 
